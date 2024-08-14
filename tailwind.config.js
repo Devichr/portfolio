@@ -8,15 +8,15 @@ module.exports = {
     },
     extend: {
       colors:{
-        primary: '#937DC2',
-        secondary: '#C689C6',
-        third: '#E8A0BF',
-        fourth: '#FCC5C0',
-        insta: '#E4405F',
-        whatsapp: '#25D366',
-        twitter:'#1DA1F2',
-        telegram: '#26A5E4',
-        linked: '#0A66C2',
+        primary: '#0F4C81', // Dark Blue - melambangkan kedalaman pemikiran dan teknologi
+        secondary: '#FFD700', // Gold - melambangkan kesuksesan dan pencapaian
+        third: '#4B0082', // Indigo - melambangkan kebijaksanaan dan kreativitas
+        fourth: '#A9A9A9', // Dark Gray - melambangkan ketelitian dan ketekunan
+        insta: '#E1306C', // Tetap sesuai dengan warna Instagram
+        whatsapp: '#25D366', // Tetap sesuai dengan warna WhatsApp
+        twitter:'#1DA1F2', // Tetap sesuai dengan warna Twitter
+        telegram: '#0088CC', // Biru Tua - Tetap sesuai dengan warna Telegram
+        linked: '#0A66C2', // Tetap sesuai dengan warna LinkedIn
       },
       screens: {
         '2xl' : '1320px'
